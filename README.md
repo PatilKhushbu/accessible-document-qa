@@ -4,6 +4,10 @@ An accessibility-first AI assistant that lets users ask questions about a docume
 
 Author: Khushbu Patil, Magdeburg, Germany
 
+
+![App screenshot](images/demo.png)
+
+
 ## Why this project
 
 This project grew out of my MSc thesis, "Breaking Data Barriers — Web Accessibility for the Visually Impaired." Most document Q&A tools assume the user can see a screen and type. This one is designed around a different question: how would a blind or partially sighted person actually use it? That shaped every feature — voice input, spoken answers, and user-controlled contrast and text size.
